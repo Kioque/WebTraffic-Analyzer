@@ -1,8 +1,9 @@
 # WebTraffic Analyzer
 
 ## Demo
-- Public internet access
-  ![](https://media.giphy.com/media/vHud5QvH609KU0Mnle/giphy.gif)
+- Public IP address access
+![](https://media.giphy.com/media/vHud5QvH609KU0Mnle/giphy.gif)
+
 
 - Hover the mouse to view the corresponding data
   ![](https://media.giphy.com/media/7CT1VlM78Cp7Floe6J/giphy.gif)
