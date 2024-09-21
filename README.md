@@ -1,4 +1,5 @@
 # WebTraffic Analyzer
+> A personal project done in 2023, mainly to familiarize myself with big data processing.
 
 ## Demo
 - Public IP address access
